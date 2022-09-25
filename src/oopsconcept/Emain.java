@@ -2,7 +2,7 @@ package oopsconcept;
 
 public class Emain {
 public static void main(String[] args) {
-		
+		//edited code from git
 		Employeeinoneclass e1 = new Employeeinoneclass();    // object creation  ==> copy of class.
 		e1.empid=101;
 		e1.empname= "ABC";
